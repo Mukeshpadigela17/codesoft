@@ -1,4 +1,3 @@
 # codesoft
-new  repo
-This is Java Programming intership
+This is Java Programming intership repository
 Like It
